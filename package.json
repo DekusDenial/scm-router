@@ -32,17 +32,17 @@
     "Tiffany Kyi <tiffanykyi@gmail.com>"
   ],
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^3.9.1",
-    "eslint-config-screwdriver": "^2.0.9",
+    "chai": "^4.1.1",
+    "eslint": "^4.4.1",
+    "eslint-config-screwdriver": "^3.0.0",
     "hoek": "^4.1.1",
-    "jenkins-mocha": "^4.0.0",
+    "jenkins-mocha": "^5.0.0",
     "mockery": "^2.0.0",
-    "sinon": "^2.3.4"
+    "sinon": "^3.1.0"
   },
   "dependencies": {
     "async": "^2.0.1",
-    "screwdriver-scm-base": "^2.7.2"
+    "screwdriver-scm-base": "^3.0.0"
   },
   "release": {
     "debug": false,
